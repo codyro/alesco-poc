@@ -74,7 +74,7 @@ The RFC process has the following states:
 
 ## RFC Template
 
-The RFC template can be found [here](https://github.com/almalinux/almalinux-rfcs/blob/master/0000-template.md). Please use this template for all new RFCs.
+The RFC template can be found [here](/rfcs/0000-template.md). Please use this template for all new RFCs.
 
 ## Contributing Guidelines
 
@@ -108,11 +108,11 @@ By contributing to this repository, you agree that your contributions will be li
 
 # Frequently Asked Questions
 
-How long is the review period?
+## How long is the review period?
 The standard review period is two weeks, but it can be extended if necessary to ensure adequate discussion.
 
-Who decides whether an RFC is accepted?
+## Who decides whether an RFC is accepted?
 The final decision is made by ALESCo, taking into account community feedback and the overall impact on the project.
 
-Can I withdraw my RFC?
+## Can I withdraw my RFC?
 Yes, you can withdraw your RFC at any point before it is accepted by closing the pull request and stating your intention.
