@@ -27,7 +27,7 @@ List potential downsides or trade-offs of the proposal.
 
 ## Benefits to AlmaLinux
 
-Explain what benefits the proposal brings to AlmaLinux and the surrounding ecosystem.
+Explain what benefits the proposal brings to AlmaLinux (community support, marketing opportunities, etc.).
 
 ## Unresolved Questions
 
