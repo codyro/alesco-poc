@@ -112,7 +112,11 @@ By contributing to this repository, you agree that your contributions will be li
 The standard review period is two weeks, but it can be extended if necessary to ensure adequate discussion.
 
 ## Who decides whether an RFC is accepted?
-The final decision is made by ALESCo, taking into account community feedback and the overall impact on the project.
+The final decision is made by ALESCo, taking into account community feedback and the overall impact on the project. There is no obligation for the RFC to be accepted by the committee.
+
+## Who is responsible for implementing an RFC once it's accepted?
+
+It is expected that contributors will be responsible for all or part of the work implementing the RFC.
 
 ## Can I withdraw my RFC?
 Yes, you can withdraw your RFC at any point before it is accepted by closing the pull request and stating your intention.

@@ -25,10 +25,9 @@ A short summary of the proposal.
 
 List potential downsides or trade-offs of the proposal.
 
-## Alternatives
+## Benefits to AlmaLinux
 
-* Discuss other approaches considered.
-* Explain why these alternatives were not chosen.
+Explain what benefits the proposal brings to AlmaLinux and the surrounding ecosystem.
 
 ## Unresolved Questions
 
