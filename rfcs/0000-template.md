@@ -25,7 +25,7 @@ A short summary of the proposal.
 
 List potential downsides or trade-offs of the proposal.
 
-## Benefits to AlmaLinux
+## Benefit to AlmaLinux
 
 Explain what benefits the proposal brings to AlmaLinux (community support, marketing opportunities, etc.).
 
