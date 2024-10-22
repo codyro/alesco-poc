@@ -29,6 +29,14 @@ List potential downsides or trade-offs of the proposal.
 
 Explain what benefits the proposal brings to AlmaLinux (community support, marketing opportunities, etc.).
 
+## Scope
+
+* **Proposal Owners:**
+* **Other Developers:**
+* **Policies and guidelines:* N/A
+
+    Trademark approval: N/A (not needed for this Change)
+
 ## Unresolved Questions
 
 Identify any open issues or areas needing further investigation.
