@@ -13,11 +13,11 @@ Below are the procedures ALESCo will follow for all official votes.
 1. The Chair will state the voting issue before the vote.
 2. The Chair will list all voting members present and eligible to vote for the issue and the number of votes required to define the majority.
 3. The Chair will address each voting member and ask for a vote of "Yes", "No", or "Abstain."
-3a. Members who abstain will not be included in the tally when determining if a majority has been reached. **The majority is defined as more than 50% of votes cast, excluding abstentions.**
+    * Members who abstain will not be included in the tally when determining if a majority has been reached. **The majority is defined as more than 50% of votes cast, excluding abstentions.**
 4. The Chair will count the votes.
 5. The Chair will announce the results.
-5a. If a decision receives more than 50% of the votes cast (excluding abstentions), the decision passes.
-5b. If the decision receives 50% or fewer of the votes cast (excluding abstentions), the decision is indecisive and can be voted on in the future.
+    * If a decision receives more than 50% of the votes cast (excluding abstentions), the decision passes.
+    * If the decision receives 50% or fewer of the votes cast (excluding abstentions), the decision is indecisive and can be voted on in the future.
 
 # Example Vote
 
